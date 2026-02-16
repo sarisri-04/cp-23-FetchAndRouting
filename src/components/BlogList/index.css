@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+.blog-list-container {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+.blog-list {
+  list-style-type: none;
+  padding: 0;
+  width: 90%;
+  max-width: 900px;
+}
